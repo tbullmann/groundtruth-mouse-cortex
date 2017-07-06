@@ -1,7 +1,5 @@
 # Segmented anisotropic ssSEM dataset of neural tissue
 
-![animation](http://brainiac2.mit.edu/SNEMI3D/sites/default/files/training-data-animation.gif)
-
 This datasets are two stacks of 100 sections from a serial section Scanning Electron Microscopy (ssSEM) data set of the Mouse neocortex, stained with reduced osmium tetroxide-thiocarbohydrazide (TCH)-osmium (“ROTO”).
 
 The microcube measures 6 x 6 x 3 microns approx., with a resolution of 6 x 6 nm/pixel and section thickness of 30 nm.

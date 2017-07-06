@@ -1,5 +1,7 @@
 # Segmented anisotropic ssSEM dataset of neural tissue
 
+![animation](http://brainiac2.mit.edu/SNEMI3D/sites/default/files/training-data-animation.gif)
+
 This datasets are two stacks of 100 sections from a serial section Scanning Electron Microscopy (ssSEM) data set of the Mouse neocortex, stained with reduced osmium tetroxide-thiocarbohydrazide (TCH)-osmium (“ROTO”).
 
 The microcube measures 6 x 6 x 3 microns approx., with a resolution of 6 x 6 nm/pixel and section thickness of 30 nm.
@@ -76,3 +78,10 @@ Conversion of region segmentation into membrane labels and overlap labels.
 The following conversions/modifications have been applied to the orginal SNEMI3D dataset:
 - All images are converted to portable network graphics (png) format
 - Organization of dataset similar to the [Segmented anisotropic ssTEM dataset of neural tissue](https://github.com/tbullmann/groundtruth-drosophila-vnc) from the Drosophila ventral nerve cord.
+
+## Original
+
+Website: [ISBI 2013 challenge: 3D segmentation of neurites in EM images](http://brainiac2.mit.edu/SNEMI3D/)
+
+Contact: [Daniel Berger](https://lichtmanlab.fas.harvard.edu/people/daniel-berger)
+

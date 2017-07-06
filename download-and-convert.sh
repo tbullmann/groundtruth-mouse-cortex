@@ -18,5 +18,5 @@ python convert-dataset.py \
   --input temp/train-input.tif \
   --output stack2/raw/
 
-rm -rf temp
+# rm -rf temp
 

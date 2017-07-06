@@ -40,8 +40,9 @@ Notes:
 
 ## Requirements
 
-- Pyhton 2 or 3
+- Python 2 or 3
 - Tifffile
+- Skimage
 
 ## How to use
 
